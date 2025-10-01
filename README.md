@@ -3,7 +3,7 @@
 🎬 Maven Movies: Unlocking Insights for a Rental Business
 Project Banner 
 
-![Stunning MAVEN MOVIES](https://w7.pngwing.com/pngs/725/684/png-transparent-movie-time-graphic-film-cinema-logo-film-elements-cdr-food-text-thumbnail.png)
+![Stunning MAVEN MOVIES](https://w7.pngwing.com/pngs/1300/1030/png-transparent-movie-time-graphic-film-cinema-logo-film-elements-cdr-food-text-thumbnail.png)
 
 <H1>📌 Project Overview</H1> 
 
