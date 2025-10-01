@@ -1,7 +1,9 @@
 # MAVEN_MOVIES_DASHBORD
 
 🎬 Maven Movies: Unlocking Insights for a Rental Business
-Project Banner
+Project Banner 
+
+
 
 <H1>📌 Project Overview</H1> 
 
