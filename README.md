@@ -3,7 +3,8 @@
 🎬 Maven Movies: Unlocking Insights for a Rental Business
 Project Banner
 
-<H1>📌 Project Overview</H1>
+<H1>📌 Project Overview</H1> 
+
 This project focuses on analyzing the MAVENMOVIES database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management.
 SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
 
@@ -39,8 +40,8 @@ MAVENMOVIES Database – Source of movie rental data
 📢 Enhanced marketing strategies based on customer segmentation and preferences.
 
 🎬 Optimized inventory management with improved stock replenishment strategies.
-
 💵 Increased revenue generation through data-driven pricing and rental trends.
+
 
 📌 Operational efficiency with a structured approach to inventory tracking.
 Movies Rental Data Queries.This repository contains SQL queries and corresponding visualizations for analyzing the Movies Rental dataset.
