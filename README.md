@@ -55,3 +55,8 @@ Movies Rental Data Queries.This repository contains SQL queries and correspondin
 
 
 <H2>Queries and Visualizations</H2>
+
+
+. Customer Information for Marketing Team
+Retrieve customer first name, last name, and email ID.
+
