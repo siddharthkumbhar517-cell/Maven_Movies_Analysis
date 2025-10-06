@@ -112,7 +112,7 @@ Retrieve customer first name, last name, and email ID.
 
 <H1>13. Payments from First 100 Customers</H1> 
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OVER_5_DOLLAR.png)
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/PAYMENT_DETAILS_FIRST_100.png)
 
 <H1>14.Payments Over $5 Since Jan 1, 2006</H1>
 
