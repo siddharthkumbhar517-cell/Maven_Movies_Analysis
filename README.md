@@ -78,33 +78,70 @@ Retrieve customer first name, last name, and email ID.
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/RATINGWISE_MOVIES.png)
 
+<H1>5. Most Prevalent Rating per Store</H1>
 
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/TOTAL_FILMS.png) 
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/ACTOR_APPEARANCE.png)
-
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CATEGORY_LENGTH.png)
+<H1>6. List of Films by Name, Category, and Language</H1>
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CATEGORY_NAME.png)
 
+<H1>7.Movie Rental Frequency</H1>
 
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/POPULARITY.png)
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/COMPARE_LENGTH.png)
+<H1>8.Top 10 Grossing Films</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CONFERENCE_LIST.png)
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/REVENUE_PER_MOVIE.png)
 
+<H1>9.Highest Spending Customer</H1>
 
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/MOST_SPENDING_CUSTOMER.png)
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/EMAIL_ID_LIST.png)
+<H1>10.Store with Most Revenue</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/EXPANSION.png)
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/TOTAL_NUMBER_OF_MOVIES.png)
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILMS_WITH_SPECIAL_FEATURES.png)
+<H1>11.</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILM_INVENTORY.png)
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/EXPANSION.png) 
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILM_TABLE.png)
+<H1>12.</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/INACTIVE_CUSTOMERS.png)
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILMS_WITH_SPECIAL_FEATURES.png) 
+
+<H1>13.</H1>
+
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILM_INVENTORY.png) 
+
+<H1>14.</H1>
+
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILM_TABLE.png)  
+
+<H1>15.</H1>
+
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/INACTIVE_CUSTOMERS.png) 
+
+<H1>16.</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>17.</H1>
 
 ![Stunning MAVEN MOVIES]()
+
+<H1>18.</H1>
+
+![Stunning MAVEN MOVIES]()
+
+<H1>19.</H1>
+
+![Stunning MAVEN MOVIES]()
+
+<H1>20.</H1>
+
+![Stunning MAVEN MOVIES]()
+
+![Stunning MAVEN MOVIES]()
+
 
