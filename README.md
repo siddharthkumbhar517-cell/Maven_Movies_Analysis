@@ -171,7 +171,7 @@ Retrieve customer first name, last name, and email ID.
 
 <H1>27.Categorization of Movies by Length</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILM_INVENTORY.png) 
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/INVESTOR_REQUEST.png) 
 
 <H1>28.Number of Actors per Film</H1> 
 
