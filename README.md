@@ -116,7 +116,7 @@ Retrieve customer first name, last name, and email ID.
 
 <H1>14.Payments Over $5 Since Jan 1, 2006</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OLD_CUSTOMER_OVER_5%24.png)
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OVER_5_DOLLAR.png) 
 
 
 <H1>15.Ratings, Movie Count, Length, and Rental Duration</H1> 
@@ -139,9 +139,12 @@ Retrieve customer first name, last name, and email ID.
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/REVENUE_PER_MOVIE.png) 
 
-<H1>20.Titles Count by Rental Duration</H1>
+<H1>20.Titles Count by Rental Duration</H1> 
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OVER_5_DOLLAR.png) 
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OLD_CUSTOMER_OVER_5%24.png)
+
+
+ 
 
 <H1>21.Ratings, Movie Count, Length, and Rental Duration</H1>
 
