@@ -63,8 +63,7 @@ Retrieve customer first name, last name, and email ID.
 1. Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
 
-![Stunning MAVEN MOVIES]()
-
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/EMAIL_ID_LIST.png)
 
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CUSTOMER_TABLE.png)
