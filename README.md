@@ -60,10 +60,13 @@ Movies Rental Data Queries.This repository contains SQL queries and correspondin
 . Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
 
-1. Customer Information for Marketing Team
+<H1>1. Customer Information for Marketing Team</H1>
+
 Retrieve customer first name, last name, and email ID.
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/EMAIL_ID_LIST.png)
+
+<H1>2. Count of Movies with Rental Rate of $0.99</H1>
 
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CUSTOMER_TABLE.png)
