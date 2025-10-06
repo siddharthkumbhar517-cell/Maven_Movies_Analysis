@@ -72,10 +72,13 @@ Retrieve customer first name, last name, and email ID.
 
 <H1>3.Rental Rate Distribution and Movie Count</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/TOTAL_NUMBER_OF_MOVIES.png)
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/TOTAL_NUMBER_OF_MOVIES.png) 
+
+<H1>4. Most Common Movie Rating</H1>
+
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/RATINGWISE_MOVIES.png)
 
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/ACTORS_NUMBER_OF_FILMS.png)
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/ACTOR_APPEARANCE.png)
 
