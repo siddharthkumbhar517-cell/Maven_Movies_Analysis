@@ -102,7 +102,27 @@ Retrieve customer first name, last name, and email ID.
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/TOTAL_NUMBER_OF_MOVIES.png)
 
-<H1></H1>
+<H1>11.Monthly Rentals Count</H1>
+
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/RENTALS_PER_MONTH.png)
+
+<H1>12. Customers Eligible for Rewards</H1>
+
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/REWARD_VIA_PHONE.png)
+
+<H1>13. Payments from First 100 Customers</H1> 
+
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OVER_5_DOLLAR.png)
+
+<H1>14.Payments Over $5 Since Jan 1, 2006</H1>
+
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OLD_CUSTOMER_OVER_5%24.png)
+
+
+<H1>15.Ratings, Movie Count, Length, and Rental Duration</H1> 
+
+![Stunning MAVEN MOVIES]()
+
 
 
 
