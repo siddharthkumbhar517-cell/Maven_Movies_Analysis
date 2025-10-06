@@ -121,7 +121,65 @@ Retrieve customer first name, last name, and email ID.
 
 <H1>15.Ratings, Movie Count, Length, and Rental Duration</H1> 
 
+![Stunning MAVEN MOVIES]() 
+
+<H1>16.Payments from First 100 Customers> </H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>17.Payments Over $5 for Specific Customers</H1>
+
 ![Stunning MAVEN MOVIES]()
+
+<H1>18.Films with 'Behind the Scenes' Special Feature</H1>
+
+![Stunning MAVEN MOVIES]()
+
+<H1>19.Unique Movie Ratings and Count</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>20.Titles Count by Rental Duration</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>21.Ratings, Movie Count, Length, and Rental Duration</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>22.Film Count by Replacement Cost with Rental Rates</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>23.Customers with Less Than 15 Rentals</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>24. Longest Films Sorted by Length and Rental Rate</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>25. Movie Recommendations by Age Group Films Inventory List</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>26.Actor Movie Count</H1> 
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>27.Categorization of Movies by Length</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>28.Number of Actors per Film</H1> 
+
+![Stunning MAVEN MOVIES]() 
+
+<H1>29. List of Staff and Advisors</H1>
+
+![Stunning MAVEN MOVIES]() 
+
+
 
 
 
