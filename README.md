@@ -102,5 +102,5 @@ Retrieve customer first name, last name, and email ID.
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/INACTIVE_CUSTOMERS.png)
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/mysql_logo.png)
+![Stunning MAVEN MOVIES]()
 
