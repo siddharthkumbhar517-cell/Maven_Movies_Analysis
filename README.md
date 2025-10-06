@@ -147,8 +147,7 @@ Retrieve customer first name, last name, and email ID.
  
 
 <H1>21.Ratings, Movie Count, Length, and Rental Duration</H1>
-
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CONFERENCE_LIST.png) 
+ 
 
 <H1>22.Film Count by Replacement Cost with Rental Rates</H1>
 
@@ -176,7 +175,9 @@ Retrieve customer first name, last name, and email ID.
 
 <H1>28.Number of Actors per Film</H1> 
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/RENTAL_AND_RATING.png) 
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CONFERENCE_LIST.png) 
+
+
 
 
 
