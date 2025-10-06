@@ -102,24 +102,7 @@ Retrieve customer first name, last name, and email ID.
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/TOTAL_NUMBER_OF_MOVIES.png)
 
-<H1>11.</H1>
+<H1></H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/EXPANSION.png) 
-
-<H1>12.</H1>
-
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILMS_WITH_SPECIAL_FEATURES.png) 
-
-<H1>13.</H1>
-
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILM_INVENTORY.png) 
-
-<H1>14.</H1>
-
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILM_TABLE.png)  
-
-<H1>15.</H1>
-
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/INACTIVE_CUSTOMERS.png) 
 
 
