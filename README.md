@@ -68,7 +68,7 @@ Retrieve customer first name, last name, and email ID.
 
 <H1>2. Count of Movies with Rental Rate of $0.99</H1> 
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/COMPARE_LENGTH.png)
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CHEAPEST_RENTALS.png)
 
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CUSTOMER_TABLE.png)
