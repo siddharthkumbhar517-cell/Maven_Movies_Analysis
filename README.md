@@ -122,26 +122,4 @@ Retrieve customer first name, last name, and email ID.
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/INACTIVE_CUSTOMERS.png) 
 
-<H1>16.</H1>
-
-![Stunning MAVEN MOVIES]() 
-
-<H1>17.</H1>
-
-![Stunning MAVEN MOVIES]()
-
-<H1>18.</H1>
-
-![Stunning MAVEN MOVIES]()
-
-<H1>19.</H1>
-
-![Stunning MAVEN MOVIES]()
-
-<H1>20.</H1>
-
-![Stunning MAVEN MOVIES]()
-
-![Stunning MAVEN MOVIES]()
-
 
