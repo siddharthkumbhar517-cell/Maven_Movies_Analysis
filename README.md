@@ -143,31 +143,30 @@ Retrieve customer first name, last name, and email ID.
 
 ![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OLD_CUSTOMER_OVER_5%24.png)
 
-
  
+<H1>21.Ratings, Movie Count, Length, and Rental Duration</H1> 
 
-<H1>21.Ratings, Movie Count, Length, and Rental Duration</H1>
+![Stunning MAVEN MOVIES]() 
  
-
 <H1>22.Film Count by Replacement Cost with Rental Rates</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/EMAIL_ID_LIST.png) 
+![Stunning MAVEN MOVIES]() 
 
 <H1>23.Customers with Less Than 15 Rentals</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/ACTOR_APPEARANCE.png) 
+![Stunning MAVEN MOVIES]() 
 
 <H1>24. Longest Films Sorted by Length and Rental Rate</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CATEGORY_LENGTH.png) 
+![Stunning MAVEN MOVIES]() 
 
 <H1>25. Movie Recommendations by Age Group Films Inventory List</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/CATEGORY_NAME.png) 
+![Stunning MAVEN MOVIES]() 
 
 <H1>26.Actor Movie Count</H1> 
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/EXPANSION.png) 
+![Stunning MAVEN MOVIES]() 
 
 <H1>27.Categorization of Movies by Length</H1>
 
