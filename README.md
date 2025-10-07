@@ -116,24 +116,24 @@ Retrieve customer first name, last name, and email ID.
 
 <H1>14.Payments Over $5 Since Jan 1, 2006</H1>
 
-![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OVER_5_DOLLAR.png) 
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OLD_CUSTOMER_OVER_5%24.png) 
 
 
 <H1>15.Ratings, Movie Count, Length, and Rental Duration</H1> 
 
-![Stunning MAVEN MOVIES]() 
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/OLD_CUSTOMER_OVER_5%24.png) 
 
 <H1>16.Payments from First 100 Customers> </H1>
 
-![Stunning MAVEN MOVIES]() 
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/FILMS_WITH_SPECIAL_FEATURES.png) 
 
 <H1>17.Payments Over $5 for Specific Customers</H1>
 
-![Stunning MAVEN MOVIES]()
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/RATINGWISE_MOVIES.png)
 
 <H1>18.Films with 'Behind the Scenes' Special Feature</H1>
 
-![Stunning MAVEN MOVIES]()
+![Stunning MAVEN MOVIES](https://github.com/siddharthkumbhar517-cell/Maven_Movies_Analysis/blob/main/Code_Output/RENTAL_DURATIONWISE_MOVIES.png)
 
 <H1>19.Unique Movie Ratings and Count</H1>
 
